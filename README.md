@@ -4,6 +4,6 @@ To begin I will be spinning up the 3 servers in the cloud. 2 windows machines, O
 
 After getting these up and running I made sure to create some firewall rules so only I can access these. As you can see below I made them IP based to my machine - 1 for SSH and 1 for RDP.
 
-!alt text](https://i.imgur.com/iRgLotj.jpeg)
+![alt text](https://i.imgur.com/iRgLotj.jpeg)
 
 After some troubleshooting, I set some static ips for the VPC NICs and things are smooth sailing and ready to go.
