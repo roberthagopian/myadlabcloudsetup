@@ -6,4 +6,4 @@ After getting these up and running I made sure to create some firewall rules so 
 
 ![alt text](https://i.imgur.com/iRgLotj.jpeg)
 
-After some troubleshooting, I set some static ips for the VPC NICs and things are smooth sailing and ready to go.
+After some troubleshooting, I set some static ips for the VPC NICs and things are ready to go.
